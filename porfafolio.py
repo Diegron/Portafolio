@@ -16,7 +16,7 @@ with st.sidebar:
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image("assets/foto.jpg", width=200)
+    st.image("assets/lucas y franco.jpg", width=200)
 
 with col2:
     st.title("👋 ¡Hola! Soy Tu Nombre")
@@ -42,19 +42,19 @@ proyectos = [
     {
         "titulo": "Clasificador de Imágenes",
         "descripcion": "Red neuronal convolucional con Keras para clasificación de imágenes.",
-        "imagen": "assets/proyecto1.png",
+        "imagen": "assets/barco Mateo.png",
         "link": "https://github.com/tu_usuario/clasificador-imagenes"
     },
     {
         "titulo": "Dashboard de Ventas",
         "descripcion": "Visualización interactiva de datos con Plotly y Streamlit.",
-        "imagen": "assets/proyecto2.png",
+        "imagen": "assets/peñarol.png",
         "link": "https://github.com/tu_usuario/dashboard-ventas"
     },
     {
         "titulo": "Gestor de Tareas API",
         "descripcion": "API REST con Django y JWT para gestión de tareas personales.",
-        "imagen": "assets/proyecto3.png",
+        "imagen": "assets/cerro fc.png",
         "link": "https://github.com/tu_usuario/api-tareas"
     }
 ]
