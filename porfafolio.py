@@ -5,7 +5,7 @@ st.set_page_config(page_title="Portafolio - Tu Nombre", layout="wide")
 
 # ----------- SIDEBAR -----------
 with st.sidebar:
-    st.image("assets/foto.jpg", width=150)
+    st.image("assets/lucas y franco.jpg", width=150)
     st.title("Tu Nombre")
     st.markdown("Desarrollador Python 🐍")
     st.markdown("[📫 Email](mailto:tuemail@correo.com)")
