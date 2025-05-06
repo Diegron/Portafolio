@@ -25,7 +25,7 @@ with col2:
     Me apasiona automatizar tareas, resolver problemas reales con código y construir herramientas útiles para las personas.
     """)
     st.markdown("📍 **Basado en:** Ciudad, País")
-    st.markdown("📚 **Habilidades:** Django · FastAPI · PostgreSQL · Pandas · Docker")
+    st.markdown("📚 **Habilidades:** Django · FastAPI · PostgreSQL · Pandas ")
 
 # ----------- MÉTRICAS -----------
 st.markdown("## 🔢 Métricas Rápidas")
